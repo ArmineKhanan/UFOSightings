@@ -17,13 +17,13 @@
 ### Drawbacks of the webpage
 
 ### Further development
-####Filters
+#### Filters
 dropdown menue
 
 error handling
-####Table
+#### Table
 sorting arow for every field
 download data opportunity
 
-####Explonatory text
+#### Explonatory text
 add information on the data restrictions

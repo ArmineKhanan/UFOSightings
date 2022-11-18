@@ -2,7 +2,7 @@
 
 ## Overview
 
-(UFO Sightings)[https://arminekhanan.github.io/ufoSightings/?fbclid=IwAR08vbEpIGP0NE9V9m5K0yLr5ejo5JoZLddIxPYtIl-09kG7ZqpL60XocoQ]
+[UFO Sightings](https://arminekhanan.github.io/ufoSightings/?fbclid=IwAR08vbEpIGP0NE9V9m5K0yLr5ejo5JoZLddIxPYtIl-09kG7ZqpL60XocoQ)
 
 ## Results
 

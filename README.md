@@ -17,8 +17,13 @@
 ### Drawbacks of the webpage
 
 ### Further development
+####Filters
 dropdown menue
 
 error handling
-
+####Table
+sorting arow for every field
 download data opportunity
+
+####Explonatory text
+add information on the data restrictions

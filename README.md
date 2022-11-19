@@ -23,6 +23,8 @@ The user can interact with the table by applying the following filters, situated
 
 All the filters have hinting text for entering values in the proper format.
 
+<img src="https://github.com/ArmineKhanan/ufoSightings/blob/main/Screen%20Shot%202022-11-18%20at%205.15.40%20PM.png" width="500" />
+
 
 ### Apllying multiple filters and resetting
 To run the filter the user should enter the value in an expected format and hit enter. Every filter accepts only one value at a time. Filters work in combination. To go back to the initial table content on can press the "UFO Sightings" text a the very top left-hand side of the page. 

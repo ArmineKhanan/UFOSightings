@@ -21,6 +21,7 @@ The user can interact with the table by applying the following filters, situated
 * *Shape*, lowercase one-word descriptions in English
 
 All the filters have hinting text for entering values in the proper format.
+
 <img src="https://github.com/ArmineKhanan/ufoSightings/blob/main/Screen%20Shot%202022-11-18%20at%205.15.40%20PM.png" width="500" />
 
 

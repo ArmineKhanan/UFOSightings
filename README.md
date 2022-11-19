@@ -24,6 +24,8 @@ Shape, accepting lowercase one-word descriptions in english
 ### Apllying multiple filters and resetting
 To run the filter the user should enter the value in an expected format and hit enter. Every filter accepts only one value at a time. Filters work in combination. To go back to the initial table content on can press the "UFO Sightings" text a the very top left-hand side of the page. 
 
+https://github.com/ArmineKhanan/ufoSightings/blob/main/Screen%20Shot%202022-11-18%20at%204.56.49%20PM.png
+
 ## Summary
 
 ### Drawbacks of the webpage

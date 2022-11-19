@@ -6,6 +6,7 @@ Within the challenge we are doing to help Dana, data journalist. She is excited 
 Within the project we relied on the followind technologies:
 * CSS, HTML and Bootstrap library
 * JavaScript and D3.js library
+
 The project rusults are deployed as website here: [UFO Sightings](https://arminekhanan.github.io/ufoSightings/?fbclid=IwAR08vbEpIGP0NE9V9m5K0yLr5ejo5JoZLddIxPYtIl-09kG7ZqpL60XocoQ).
 
 ## Results

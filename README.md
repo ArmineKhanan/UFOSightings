@@ -34,16 +34,16 @@ To run the filter the user should enter the value in an expected format and hit 
 ## Summary
 
 ### Drawbacks of the webpage
+One major drawback of the webpage is the data scarcity. It encompasses a limitted timeframe, from 1st to 13th of January, 2010, and the only Country represende is USA.
 
 ### Further development
+The webpage can be improved in several regards.
+
 #### Filters
-dropdown menue
-error handling
-adding multiple values per filter
+* *Dropdown* menue might hint the customer to enter the value as stored in the database.
+* In case of the wrong entry, that would be useful to have *handle different kind of typical errors* assisting the user to correct their mistake.
+* The user experience might also be enhanced by enable them to opt for *more than one value* per filter
 
 #### Table
-sorting arow for every field
-download data opportunity
-
-#### Explonatory text
-add information on the data restrictions
+* Sorting arow for every field is nessesary to look at the data in a more structured way
+* For such projects it's crucial to give the user an opportunity to download the data

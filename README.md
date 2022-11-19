@@ -3,7 +3,7 @@
 ## Overview
 
 Within the challenge we are doing to help Dana, data journalist. She is excited to prepare an article about her hometown McMinnville, Oregon, and,, even more excited about the topic UFOs. The purpose of the project is to prepare a table based on UFO observations. The table should have a feature of being filtered py different parameters simultaniously.
-Within the project we relied on the followind technologies:
+Within the project we relied on the following technologies:
 * CSS, HTML and Bootstrap library
 * JavaScript and D3.js library
 

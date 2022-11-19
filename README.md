@@ -42,8 +42,8 @@ The webpage can be improved in several regards.
 #### Filters
 * *Dropdown* menue might hint the customer to enter the value as stored in the database.
 * In case of the wrong entry, that would be useful to have *handle different kind of typical errors* assisting the user to correct their mistake.
-* The user experience might also be enhanced by enable them to opt for *more than one value* per filter
+* The user experience might also be enhanced by enable them to opt for *more than one value* per filter.
 
 #### Table
-* Sorting arow for every field is nessesary to look at the data in a more structured way
-* For such projects it's crucial to give the user an opportunity to download the data
+* Sorting arrow for every field is nessesary to look at the data in a more structured way.
+* For such projects it's crucial to give the user an opportunity to download the data in an Excel or .csv format.

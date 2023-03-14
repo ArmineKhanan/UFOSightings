@@ -6,7 +6,7 @@ Within the challenge, we are to help Dana, the data journalist. She is excited t
 * CSS, HTML, and Bootstrap library
 * JavaScript and D3.js library
 
-The project results are deployed as a one-page website here: [UFO Sightings](https://arminekhanan.github.io/ufoSightings/?fbclid=IwAR08vbEpIGP0NE9V9m5K0yLr5ejo5JoZLddIxPYtIl-09kG7ZqpL60XocoQ).
+The project results are deployed as a one-page website here: [UFO Sightings](https://arminekhanan.github.io/UFO_Sightings/).
 
 ## Results
 
